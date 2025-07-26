@@ -12,17 +12,19 @@ Amber Co, a financial and consumer banking company, needed deeper insight into i
 
 - Create actionable business strategies using profit trends
 
-📌 **Data Used**
+ 
+ **Data Used**
 Regional Sales Data (Profit, Product Index, Order Date, Sales Channel, Region)
 
-🛠 **Tools & Technologies**
+
+**Tools & Technologies**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 - Google Colab
 
 - Power BI (for dashboarding and trend visualization)
 
-💡 **Key Insights & Recommendations**
+**Key Insights & Recommendations**
 🔝 1. Invest More in Top Regions 
 These regions contribute over $950 million in profit combined.
 Action: Increase marketing efforts, logistics capacity, and customer engagement. 
@@ -50,7 +52,7 @@ Reason: Room exists to reduce prices without hurting profitability.
 
 
 
-📈 **Next Steps**
+**Next Steps**
 - Integrate customer segmentation analysis with sales data
 
 - Build automated dashboards in Power BI for real-time decision-making
