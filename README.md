@@ -1,4 +1,4 @@
-**Banking Analysis Project of Amber Co Company**
+**BANKING ANALYSIS PROJECT OF AMBER CO COMPANY**
 
 **Problem Statement**
 Amber Co, a financial and consumer banking company, needed deeper insight into its sales performance across different regions, products, and channels. Despite high profit margins, the company struggled with inventory inefficiencies, missed seasonal opportunities, and under-leveraged sales channels. This analysis was conducted to uncover actionable insights to boost profitability, optimize regional strategy, and improve marketing alignment.
