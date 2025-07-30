@@ -1,0 +1,95 @@
+Project Requirements: Sales Analysis for Amber Co
+
+📁 Data Requirements
+A historical sales dataset including:
+
+- Order Date
+
+- Product Name
+
+- Revenue / Sales Amount
+
+- Order Quantity
+
+- Customer ID
+
+- State or Region
+
+- Profit or Profit Margin
+
+Final File Used: final (1).csv
+
+🧰 Technical Requirements
+🔹 Tools Used
+- MySQL Workbench – for data exploration and preprocessing
+
+- Python (Google Colab) – for data cleaning and advanced analytics
+
+- Pandas, Matplotlib, Seaborn – for analysis and visualization
+
+
+- Git & GitHub – for version control and project hosting
+
+🔹 Key Python Libraries
+- pandas
+
+- matplotlib
+
+- seaborn
+
+- datetime
+
+📊 Analytical Requirements
+1. Monthly Sales Trends
+Group sales by month and year.
+
+Identify seasonality and peak periods.
+
+2. Top/Bottom Product Performance
+Rank products by total revenue.
+
+Identify underperforming SKUs.
+
+3. Order Value Distribution
+- Calculate and visualize AOV (Average Order Value).
+
+- Understand order volume vs. revenue spread.
+
+4. Geographic Analysis
+Identify top-performing states by:
+
+- Revenue
+
+- Order volume
+
+5. Profitability Insights
+Compute average profit margins.
+
+Spot high-revenue, low-profit items.
+
+6. Dashboard Requirements (For Power BI, if used)
+Bar chart: Monthly Revenue
+
+Bar chart: Top 10 Products
+
+
+📦 Deliverables
+✅ Sales_Analysis_PowerBI_Project.ipynb
+
+✅ Cleaned dataset: final (1).csv
+
+✅ GitHub repository with:
+
+Structured SQL files (01_create_import.sql, etc.)
+
+Jupyter Notebook with visualizations
+
+ReadMe file with:
+
+Problem Statement
+
+Approach
+
+Key Findings
+
+Tools Used
